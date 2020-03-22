@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/othello-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/othello-react/static/js/main.e4c319f1.chunk.js",
+    "main.js.map": "/othello-react/static/js/main.e4c319f1.chunk.js.map",
+    "runtime-main.js": "/othello-react/static/js/runtime-main.29c1ec88.js",
+    "runtime-main.js.map": "/othello-react/static/js/runtime-main.29c1ec88.js.map",
+    "static/js/2.27abe9e7.chunk.js": "/othello-react/static/js/2.27abe9e7.chunk.js",
+    "static/js/2.27abe9e7.chunk.js.map": "/othello-react/static/js/2.27abe9e7.chunk.js.map",
+    "index.html": "/othello-react/index.html",
+    "precache-manifest.5eb9c8797d3062b9b215925c5a87192a.js": "/othello-react/precache-manifest.5eb9c8797d3062b9b215925c5a87192a.js",
+    "service-worker.js": "/othello-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/othello-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.27abe9e7.chunk.js.LICENSE.txt": "/othello-react/static/js/2.27abe9e7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/othello-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29c1ec88.js",
+    "static/js/2.27abe9e7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e4c319f1.chunk.js"
+  ]
+}
